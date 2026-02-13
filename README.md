@@ -1,1 +1,1 @@
-# Computer-Organization---MIPS-Assembly
+# Projects developed in MIPS Assembly Language using PC-SPIM.
